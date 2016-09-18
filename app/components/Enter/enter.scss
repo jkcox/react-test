@@ -1,0 +1,12 @@
+@import '../../style/vars.scss';
+
+
+/**** Enter Page ****/
+.hero {
+  text-align: center;
+  /*composes: main-container from "../../style/style.css"; hero class now has styles of main-container*/
+
+  h1 {
+    font-family: 'Open Sans';
+ }
+}
